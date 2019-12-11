@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "259077252576",
+    "firebase_url": "https://ifindet-3a336.firebaseio.com",
+    "project_id": "ifindet-3a336",
+    "storage_bucket": "ifindet-3a336.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259077252576:android:aed80fca397c5d44737785",
+        "android_client_info": {
+          "package_name": "com.example.proyectofinalemergentes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259077252576-5fccetnsqkn2c5r5p6sibgnpcmqflcnn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyectofinalemergentes",
+            "certificate_hash": "aa9eb68144b863d31c3f545284cd636040a23e74"
+          }
+        },
+        {
+          "client_id": "259077252576-e16dmggp7vqb1jd7tn86o5ci4vqpkm6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA7almHD0ZqY0Db8GrwGxCbVdFJDj8Lc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259077252576-e16dmggp7vqb1jd7tn86o5ci4vqpkm6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

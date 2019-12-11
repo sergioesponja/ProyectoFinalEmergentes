@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProyectoFinalEmergentes</string>
+    <string name="isologo">isologo</string>
+    <string name="tus_articulos_a_la_mejor_oferta">Tus articulos a la mejor oferta</string>
+    <string name="ifindet_todos_los_derechos_reservados">Ifindet. Todos los derechos reservados</string>
+    <string name="facebook_app_id">2857022557662110</string> <string name="fb_login_protocol_scheme">fb2857022557662110</string>
+</resources>
